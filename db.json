@@ -1,0 +1,9 @@
+
+{
+  "categories": [
+    { "id": 1, "name": "Mobile Development" },
+    { "id": 2, "name": "Web Development" },
+    { "id": 3, "name": "Data Science" },
+    { "id": 4, "name": "DevOps" }
+  ]
+}
